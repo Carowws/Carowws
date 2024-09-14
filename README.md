@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carowws
-- 👀 I’m interested in music, atronomy and robotic
+- 👀 I’m interested in music, astronomy and robotic
 - 🌱 I’m currently learning how to use ESP32
 - 💞️ I’m looking to collaborate on #OProjeto
 - 😄 Pronouns: SHE/HER
