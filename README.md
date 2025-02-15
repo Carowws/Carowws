@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Carowws
-- 👀 I’m interested in music, astronomy and robotic
-- 🌱 I’m currently learning how to use ESP32
-- 💞️ I’m looking to collaborate on #OProjeto
-- 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: bad at math, but really good at tryin'
-<!---
-Carowws/Carowws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Carolyne, a multidisciplinary creative with a passion for tattooing, music, astronomy, and robotics. Currently diving into ESP32 development and always eager to learn something new.
+
+📚 About me
+🎨 Tattoo artist with a love for storytelling through art
+🔭 Fascinated by the cosmos, black holes, and supernovas
+🎼 Multi-instrumentalist and music enthusiast
+📡 Exploring electronics, robotics, and embedded systems
+
+🌍 Languages
+🇧🇷 Portuguese: Native
+🇬🇧 English: C2 (Proficient)
+
+🚀 Currently Learning
+ESP32 & Microcontrollers
+C/C++ for Embedded Systems
+Power BI & Data Visualization
+HTML & Web Development
+Physics & Mathematics (even though math isn't my strong suit, I never stop trying!)
+💡 Looking to Collaborate
+Excited to contribute to #OProjeto and connect with like-minded people in tech, art, and education.
+
+📬 Get in Touch
+;) 
