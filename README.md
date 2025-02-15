@@ -1,4 +1,6 @@
-I'm Carolyne, a multidisciplinary creative with a passion for tattooing, music, astronomy, and robotics. Currently diving into ESP32 development and always eager to learn something new.
+<HEAD> <H2> HELLOOO LITTLE STRAWBERRIES! 👋 </H2>
+
+I'm CarOw, a multidisciplinary creative with a passion for tattooing, music, astronomy, and robotics. Currently diving into ESP32 development and always eager to learn something new.
 
 📚 About me
 🎨 Tattoo artist with a love for storytelling through art
