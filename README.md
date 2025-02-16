@@ -1,4 +1,4 @@
-<HEAD> <H2> HELLOOO LITTLE STRAWBERRIES! 👋 </H2>
+<HEAD> <H2> HELLOOO! 👋 </H2>
 
 I'm CarOw, a multidisciplinary creative with a passion for tattooing, music, astronomy, and robotics. Currently diving into ESP32 development and always eager to learn something new.
 
@@ -32,3 +32,4 @@ Excited to contribute to #OProjeto and connect with like-minded people in tech, 
 
 📬 Get in Touch
 ;) 
+iju
