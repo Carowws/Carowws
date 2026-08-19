@@ -7,7 +7,7 @@ I'm CarOw, a multidisciplinary creative with a passion for tattooing, music, ast
 🎨 Tattoo artist with a love for storytelling through art
 🔭 Fascinated by the cosmos, black holes, and supernovas
 🎼 Multi-instrumentalist and music enthusiast
-📡 Exploring electronics, robotics, and embedded systems
+📡 Exploring electronics, robotics, and embedded systems.
   Married | LGBTqiapn+
 
 🌍 Languages
